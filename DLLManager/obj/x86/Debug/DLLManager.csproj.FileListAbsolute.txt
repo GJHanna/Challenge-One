@@ -1,0 +1,5 @@
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\DLLManager\bin\x86\Debug\DLLManager.dll
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\DLLManager\bin\x86\Debug\DLLManager.pdb
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\DLLManager\obj\x86\Debug\DLLManager.dll
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\DLLManager\obj\x86\Debug\DLLManager.pdb
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\DLLManager\obj\x86\Debug\DLLManager.csprojResolveAssemblyReference.cache

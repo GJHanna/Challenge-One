@@ -1,0 +1,17 @@
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\bin\x86\Debug\ChallengeOne.exe.config
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\bin\x86\Debug\ChallengeOne.exe
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\bin\x86\Debug\ChallengeOne.pdb
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\bin\x86\Debug\DLLManager.dll
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\bin\x86\Debug\DLLManager.pdb
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne.csprojResolveAssemblyReference.cache
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\App.g.cs
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne_MarkupCompile.cache
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne_MarkupCompile.lref
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\MainWindow.baml
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne.g.resources
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne.Properties.Resources.resources
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne.csproj.GenerateResource.Cache
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne.exe
+C:\Users\Georges Hanna\Desktop\Playground\ChallengeOne\ChallengeOne\ChallengeOne\obj\x86\Debug\ChallengeOne.pdb
